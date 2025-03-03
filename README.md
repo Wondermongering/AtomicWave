@@ -61,11 +61,7 @@ Atomic Wave was born from the realization that many embedded databases sacrifice
 
 ## 🌱 Project Status
 
-Atomic Wave is in alpha stage. While core functionality is operational and tested, we recommend thorough evaluation before production use. We welcome contributions and feedback from the community.
-
-## 📚 Documentation
-
-For complete documentation, including advanced configuration options and the full API reference, visit our [documentation site](https://docs.example.com/atomic-wave).
+Atomic Wave is in alpha stage. 
 
 ## 🧩 Architecture
 
